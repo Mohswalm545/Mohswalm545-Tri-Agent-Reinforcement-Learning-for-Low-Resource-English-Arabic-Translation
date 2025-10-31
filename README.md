@@ -15,6 +15,13 @@ Three interacting agents form a closed training loop:
 | **B (Teacher / Adversary)** | Provides increasingly difficult or misleading English examples. | Minimize Student’s success rate. |
 | **C (Judge / Grounded Evaluator)** | Scores each translation based on accuracy, grammar, and fluency. | Provide stable, fair rewards (+1 / 0 / –1). |
 
+<p align="center">
+  <img src="https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation/blob/main/projectimage.png" width="650">
+  <br>
+  <em>Figure: STJ Tri-Agent Reinforcement Learning System</em>
+</p>
+
+
 Training phases:
 1. **Supervised Warm-Up:** A learns basic English→Arabic mappings from a bilingual lexicon.  
 2. **Reinforcement Phase:** A and B self-play while C evaluates correctness.  
@@ -89,11 +96,4 @@ Rei, R., et al. (2022). *COMET-22: A Reference-Free Evaluation Metric for Machin
 
 Sweilmeen, M. A. (2025). *Tri-Agent Reinforcement Learning for Low-Resource English→Arabic Translation (GitHub Repository).*  
 [https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation](https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation)
-
-
-<p align="center">
-  <img src="https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation/blob/main/projectimage.png" width="650">
-  <br>
-  <em>Figure: STJ Tri-Agent Reinforcement Learning System</em>
-</p>
 
