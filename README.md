@@ -89,3 +89,11 @@ Rei, R., et al. (2022). *COMET-22: A Reference-Free Evaluation Metric for Machin
 
 Sweilmeen, M. A. (2025). *Tri-Agent Reinforcement Learning for Low-Resource English→Arabic Translation (GitHub Repository).*  
 [https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation](https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation)
+
+
+<p align="center">
+  <img src="https://github.com/Mohswalm545/Mohswalm545-Tri-Agent-Reinforcement-Learning-for-Low-Resource-English-Arabic-Translation/blob/main/projectimage.png" width="650">
+  <br>
+  <em>Figure: STJ Tri-Agent Reinforcement Learning System</em>
+</p>
+
